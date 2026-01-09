@@ -56,7 +56,7 @@ export default async function handler(
     }
 
     await resend.emails.send({
-      from: "Charles Portfolio <contact@yourdomain.com>",
+      from: "Charles Portfolio <charlesugwuja9@gmail.com>",
       to: ["charlesugwuja9@gmail.com"],
       replyTo: email,
       subject: `New Booking Inquiry — ${name} (${eventType})`,

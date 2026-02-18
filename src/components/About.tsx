@@ -27,19 +27,10 @@ const About = () => {
               <span className="text-gradient">Experiences</span>
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
-              <p>  Charles is a dynmaic and versatile Mc who knows how to turn any event into an unforgettable 
-                experince. 
-                He brings authenticity,professionalism and an undeniable spark to every stage he grace.
-
-                With years of experience commanding stages across Nigeria and beyond, 
-                I bring an unmatched energy and professionalism to every event I host. From 
-                intimate corporate gatherings to grand weddings and high-profile award ceremonies, 
-                I transform ordinary moments into extraordinary memories.
+              <p>  Charles is a dynamic and versatile MC who knows how to turn any event into an unforgettable experience. He brings authenticity, professionalism and an undeniable spark to every stage he graces . With years of experience commanding stages across Nigeria and beyond, I bring an unmatched energy and professionalism to every event I host. From intimate corporate gatherings to grand weddings and high-profile award ceremonies, I transform ordinary moments into extraordinary memories.
               </p>
-              <p>
-               More than just a host,Charles is a tranied medical practitioner with experience in corporate events, My approach combines meticulous preparation with spontaneous charisma, ensuring 
-                every event flows seamlessly while keeping audiences engaged and entertained. 
-                I believe that a great MC doesn't just announce – they elevate the entire experience,infusing every event with soulful depth and meaningful connection.
+             <p>
+               More than just a host with experience in corporate events, Charles is a trained medical practitioner and this gives a professional inflection to his work. His approach combines meticulous preparation with spontaneous charisma, ensuring every event flows seamlessly while keeping audiences engaged and entertained. Charles believes that a great MC doesn't just announce – they elevate the entire experience, infusing every event with soulful depth and meaningful connection.
               </p>
               <p>
                 

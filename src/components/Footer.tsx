@@ -93,6 +93,10 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4">
+     <p className="text-sm text-muted-foreground">
+             Contact (+234 906 457 4106) for your professional portfolio.
+          </p>
+ 
           <p className="text-sm text-muted-foreground">
             © 2026 Charles N. Ugwuja. All rights reserved.
           </p>

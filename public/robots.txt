@@ -6,7 +6,7 @@ Allow: /
 
 User-agent: Twitterbot
 Allow: /
-
+//comments
 User-agent: facebookexternalhit
 Allow: /
 

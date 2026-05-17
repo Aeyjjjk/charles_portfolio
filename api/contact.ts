@@ -14,7 +14,7 @@ export default async function handler(
     return res.status(405).json({ success: false, error: "Method not allowed" });
   }
 
-  // 🔐 RATE LIMIT (Vercel-safe)
+  //  RATE LIMIT (Vercel-safe)
   const ip =
     (req.headers["x-forwarded-for"] as string)?.split(",")[0] ||
     req.socket.remoteAddress ||

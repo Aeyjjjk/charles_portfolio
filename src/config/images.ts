@@ -39,6 +39,8 @@ import event18 from '@/assets/event-18.jpg';
 import event19 from '@/assets/event-19.jpg';
 import event20 from '@/assets/event-20.jpg';
 import event21 from '@/assets/event-21.jpg';
+import event22 from '@/assets/event-22.jpg';
+import event23 from '@/assets/event-23.jpg';
 
 // ========================================
 // EXPORTED IMAGE CONFIGURATIONS
@@ -70,6 +72,8 @@ export const eventImages = {
   event19,
   event20,
   event21,
+  event22,
+  event23,
 };
 
 // Gallery images with metadata - update titles and categories as needed
@@ -134,7 +138,18 @@ export const galleryConfig = [
     title: 'Childrens Day Celebration for Niger Foundation Hospital,Enugu',
     category: 'Entertainment',
   },
-  
+  {
+    id: 11,
+    src: event22,
+    title: 'Panel moderator for creator verse',
+    category: 'Corporate',
+  },
+   {
+    id: 12,
+    src: event23,
+    title: 'Panel moderator for creator verse',
+    category: 'Corporate',
+  },
 
 ];
 

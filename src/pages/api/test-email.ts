@@ -9,7 +9,7 @@
 //   if (!process.env.RESEND_API_KEY) {
 //     return res.status(500).json({ 
 //       success: false, 
-//       error: 'RESEND_API_KEY is not set' 
+//       error: 'RESEND_API_KEY is not set yet' 
 //     });
 //   }
 
